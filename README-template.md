@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Click for live site](https://soopchiller.github.io/QR-code-component/)
+
+ [Click for live site](https://soopchiller.github.io/QR-code-component/)
 
 ## My process
 
@@ -63,7 +63,7 @@ Many things to work on but HTML orginization & flexbox at the top!
 
 ### Useful resources
 
-- [Resource](https://supersimple.dev/courses) - This course really helped me understand with HTML & CSS 
+- [Resource](https://supersimple.dev/courses) - This course really helped me understand HTML & CSS 
 
 
 
